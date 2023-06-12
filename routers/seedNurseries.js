@@ -1,5 +1,5 @@
 const express=require('express')
-const seedNurseriesController = require('../controllers/SeedNurseries')
+const seedNurseriesController = require('../controllers/seedNurseries')
 const seedNurseriesRouter=express.Router()
 
 seedNurseriesRouter.patch('/', seedNurseriesController.patchSeedId)
