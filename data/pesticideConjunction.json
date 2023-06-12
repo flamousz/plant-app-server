@@ -1,0 +1,94 @@
+[
+    {
+        "plantsheetid": 1,
+        "pesticideid": 36
+    },
+    {
+        "plantsheetid": 1,
+        "pesticideid": 40
+    },
+    {
+        "plantsheetid": 1,
+        "pesticideid": 41
+    },
+    {
+        "plantsheetid": 1,
+        "pesticideid": 48
+    },
+    {
+        "plantsheetid": 2,
+        "pesticideid": 36
+    },
+    {
+        "plantsheetid": 2,
+        "pesticideid": 40
+    },
+    {
+        "plantsheetid": 2,
+        "pesticideid": 41
+    },
+    {
+        "plantsheetid": 2,
+        "pesticideid": 48
+    },
+    {
+        "plantsheetid": 3,
+        "pesticideid": 41
+    },
+    {
+        "plantsheetid": 3,
+        "pesticideid": 42
+    },
+    {
+        "plantsheetid": 3,
+        "pesticideid": 34
+    },
+    {
+        "plantsheetid": 3,
+        "pesticideid": 50
+    },
+    {
+        "plantsheetid": 3,
+        "pesticideid": 53
+    },
+    {
+        "plantsheetid": 3,
+        "pesticideid": 48
+    },
+    {
+        "plantsheetid": 3,
+        "pesticideid": 41
+    },
+    {
+        "plantsheetid": 4,
+        "pesticideid": 42
+    },
+    {
+        "plantsheetid": 4,
+        "pesticideid": 34
+    },
+    {
+        "plantsheetid": 4,
+        "pesticideid": 50
+    },
+    {
+        "plantsheetid": 4,
+        "pesticideid": 53
+    },
+    {
+        "plantsheetid": 4,
+        "pesticideid": 48
+    },
+    {
+        "plantsheetid": 5,
+        "pesticideid": 43
+    },
+    {
+        "plantsheetid": 5,
+        "pesticideid": 35
+    },
+    {
+        "plantsheetid": 5,
+        "pesticideid": 40
+    }
+]

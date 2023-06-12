@@ -1,0 +1,814 @@
+[
+    {
+        "no": 1,
+        "name": "b1",
+        "area": 456,
+        "type": "sungkup",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 2,
+        "name": "b2",
+        "area": 456,
+        "type": "sungkup",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 3,
+        "name": "b3",
+        "area": 437,
+        "type": "naungan bambu",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 4,
+        "name": "b4",
+        "area": 435,
+        "type": "naungan bambu",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 5,
+        "name": "b5",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 6,
+        "name": "b6",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 7,
+        "name": "b7",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 8,
+        "name": "b8",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 9,
+        "name": "b9",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 10,
+        "name": "b10",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 11,
+        "name": "b11",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 12,
+        "name": "b12",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 13,
+        "name": "b13",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 14,
+        "name": "b14",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 15,
+        "name": "b15",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 16,
+        "name": "b16",
+        "area": 456,
+        "type": "naungan bambu",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 17,
+        "name": "b17",
+        "area": 449,
+        "type": "naungan bambu",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 1,
+        "name": "gh c1",
+        "area": 329,
+        "type": "green house",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 2,
+        "name": "gh c2",
+        "area": 329,
+        "type": "green house",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 3,
+        "name": "gh c3",
+        "area": 329,
+        "type": "green house",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 4,
+        "name": "gh c4",
+        "area": 329,
+        "type": "green house",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 5,
+        "name": "gh c5",
+        "area": 238,
+        "type": "green house",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 6,
+        "name": "gh c6",
+        "area": 210,
+        "type": "green house",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 7,
+        "name": "gh c7",
+        "area": 588,
+        "type": "green house",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 8,
+        "name": "gh c8",
+        "area": 350,
+        "type": "green house",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 9,
+        "name": "gh c9",
+        "area": 350,
+        "type": "green house",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 10,
+        "name": "gh c10",
+        "area": 350,
+        "type": "green house",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 11,
+        "name": "gh c11",
+        "area": 350,
+        "type": "green house",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 12,
+        "name": "gh c12",
+        "area": 420,
+        "type": "green house",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 13,
+        "name": "gh c13",
+        "area": 420,
+        "type": "green house",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 14,
+        "name": "c14",
+        "area": 450,
+        "type": "naungan bambu",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 15,
+        "name": "c15",
+        "area": 919,
+        "type": "naungan bambu",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 16,
+        "name": "c16",
+        "area": 184,
+        "type": "naungan bambu",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 17,
+        "name": "c17",
+        "area": 570,
+        "type": "naungan bambu",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 18,
+        "name": "c18",
+        "area": 602,
+        "type": "sungkup",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 1,
+        "name": "gh d1",
+        "area": 420,
+        "type": "green house",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 2,
+        "name": "gh d2",
+        "area": 420,
+        "type": "green house",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 3,
+        "name": "gh d3",
+        "area": 420,
+        "type": "green house",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 4,
+        "name": "d4",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 5,
+        "name": "d5",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 6,
+        "name": "d6",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 7,
+        "name": "d7",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 8,
+        "name": "d8",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 9,
+        "name": "d9",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 10,
+        "name": "d10",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 11,
+        "name": "d11",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 12,
+        "name": "d12",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 13,
+        "name": "d13",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 14,
+        "name": "d14",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 15,
+        "name": "d15",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 16,
+        "name": "d16",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 17,
+        "name": "d17",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 18,
+        "name": "d18",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 19,
+        "name": "d19",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 20,
+        "name": "d20",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 21,
+        "name": "d21",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 22,
+        "name": "d22",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 1,
+        "name": "e1",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 2,
+        "name": "e2",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 3,
+        "name": "e3",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 4,
+        "name": "e4",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 5,
+        "name": "e5",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 6,
+        "name": "e6",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 7,
+        "name": "e7",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 8,
+        "name": "e8",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 9,
+        "name": "e9",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 10,
+        "name": "e10",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 11,
+        "name": "e11",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 12,
+        "name": "e12",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 13,
+        "name": "e13",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 14,
+        "name": "e14",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 15,
+        "name": "e15",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 16,
+        "name": "e16",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 17,
+        "name": "e17",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 18,
+        "name": "e18",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 19,
+        "name": "e19",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 20,
+        "name": "e20",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 21,
+        "name": "e21",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 22,
+        "name": "e22",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 23,
+        "name": "e23",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 24,
+        "name": "e24",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 25,
+        "name": "e25",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 26,
+        "name": "e26",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 27,
+        "name": "e27",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 28,
+        "name": "e28",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 29,
+        "name": "e29",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 30,
+        "name": "e30",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 31,
+        "name": "e31",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 32,
+        "name": "e32",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 33,
+        "name": "e33",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 34,
+        "name": "e34",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 35,
+        "name": "e35",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 36,
+        "name": "e36",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 37,
+        "name": "e37",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 38,
+        "name": "e38",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 39,
+        "name": "e39",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 40,
+        "name": "e40",
+        "area": 113,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 1,
+        "name": "f1",
+        "area": 428,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 2,
+        "name": "f2",
+        "area": 466,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 3,
+        "name": "f3",
+        "area": 2001,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 4,
+        "name": "f4",
+        "area": 1904,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 1,
+        "name": "g1",
+        "area": 575,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 2,
+        "name": "g2",
+        "area": 885,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 3,
+        "name": "g3",
+        "area": 1475,
+        "type": "naungan",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 1,
+        "name": "h1",
+        "area": 280,
+        "type": "green house",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 2,
+        "name": "h2",
+        "area": 280,
+        "type": "green house",
+        "detailplace": "sukamanah"
+    },
+    {
+        "no": 1,
+        "name": "n1",
+        "area": 563,
+        "type": "naungan",
+        "detailplace": "norogtog"
+    },
+    {
+        "no": 2,
+        "name": "n2",
+        "area": 563,
+        "type": "naungan",
+        "detailplace": "norogtog"
+    },
+    {
+        "no": 3,
+        "name": "n3",
+        "area": 563,
+        "type": "naungan",
+        "detailplace": "norogtog"
+    },
+    {
+        "no": 4,
+        "name": "n4",
+        "area": 563,
+        "type": "naungan",
+        "detailplace": "norogtog"
+    },
+    {
+        "no": 5,
+        "name": "n5",
+        "area": 563,
+        "type": "naungan",
+        "detailplace": "norogtog"
+    },
+    {
+        "no": 6,
+        "name": "n6",
+        "area": 563,
+        "type": "naungan",
+        "detailplace": "norogtog"
+    },
+    {
+        "no": 7,
+        "name": "n7",
+        "area": 563,
+        "type": "naungan",
+        "detailplace": "norogtog"
+    },
+    {
+        "no": 8,
+        "name": "n8",
+        "area": 563,
+        "type": "naungan",
+        "detailplace": "norogtog"
+    },
+    {
+        "no": 9,
+        "name": "n9",
+        "area": 563,
+        "type": "naungan",
+        "detailplace": "norogtog"
+    },
+    {
+        "no": 10,
+        "name": "n10",
+        "area": 563,
+        "type": "naungan",
+        "detailplace": "norogtog"
+    }
+]

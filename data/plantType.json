@@ -1,0 +1,10 @@
+[
+    {
+        "name": "organic",
+        "code": "org"
+    },
+    {
+        "name": "non-organic",
+        "code": "norg"
+    }
+]

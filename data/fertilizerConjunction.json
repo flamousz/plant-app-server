@@ -1,0 +1,94 @@
+[
+    {
+        "plantsheetid": 1,
+        "fertilizerid": 56
+    },
+    {
+        "plantsheetid": 1,
+        "fertilizerid": 61
+    },
+    {
+        "plantsheetid": 1,
+        "fertilizerid": 68
+    },
+    {
+        "plantsheetid": 1,
+        "fertilizerid": 69
+    },
+    {
+        "plantsheetid": 2,
+        "fertilizerid": 56
+    },
+    {
+        "plantsheetid": 2,
+        "fertilizerid": 61
+    },
+    {
+        "plantsheetid": 2,
+        "fertilizerid": 68
+    },
+    {
+        "plantsheetid": 2,
+        "fertilizerid": 69
+    },
+    {
+        "plantsheetid": 3,
+        "fertilizerid": 59
+    },
+    {
+        "plantsheetid": 3,
+        "fertilizerid": 68
+    },
+    {
+        "plantsheetid": 3,
+        "fertilizerid": 69
+    },
+    {
+        "plantsheetid": 4,
+        "fertilizerid": 59
+    },
+    {
+        "plantsheetid": 4,
+        "fertilizerid": 68
+    },
+    {
+        "plantsheetid": 4,
+        "fertilizerid": 69
+    },
+    {
+        "plantsheetid": 5,
+        "fertilizerid": 58
+    },
+    {
+        "plantsheetid": 5,
+        "fertilizerid": 55
+    },
+    {
+        "plantsheetid": 5,
+        "fertilizerid": 56
+    },
+    {
+        "plantsheetid": 5,
+        "fertilizerid": 61
+    },
+    {
+        "plantsheetid": 5,
+        "fertilizerid": 60
+    },
+    {
+        "plantsheetid": 5,
+        "fertilizerid": 62
+    },
+    {
+        "plantsheetid": 5,
+        "fertilizerid": 57
+    },
+    {
+        "plantsheetid": 5,
+        "fertilizerid": 65
+    },
+    {
+        "plantsheetid": 5,
+        "fertilizerid": 68
+    }
+]

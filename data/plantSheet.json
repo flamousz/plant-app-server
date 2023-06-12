@@ -1,0 +1,298 @@
+[
+    {
+        "no": 1,
+        "plantid": 1,
+        "seedlingAge": 21,
+        "harvestAge": 50,
+        "harvestTime": 1,
+        "cropAge": 50,
+        "cropProdWeight": 0.3,
+        "planttypeid": 1,
+        "materialid": 72,
+        "pesticideid": 36,
+        "fertilizerid": 56,
+        "seedid": 1
+    },
+    {
+        "no": 2,
+        "plantid": 2,
+        "seedlingAge": 21,
+        "harvestAge": 45,
+        "harvestTime": 1,
+        "cropAge": 45,
+        "cropProdWeight": 0.2,
+        "planttypeid": 2,
+        "materialid": 72,
+        "pesticideid": 36,
+        "fertilizerid": 56,
+        "seedid": 2
+    },
+    {
+        "no": 3,
+        "plantid": 3,
+        "seedlingAge": 21,
+        "harvestAge": 70,
+        "harvestTime": 40,
+        "cropAge": 110,
+        "cropProdWeight": 1.3,
+        "planttypeid": 1,
+        "materialid": 73,
+        "pesticideid": 41,
+        "fertilizerid": 56,
+        "seedid": 3
+    },
+    {
+        "no": 4,
+        "plantid": 4,
+        "seedlingAge": 21,
+        "harvestAge": 90,
+        "harvestTime": 40,
+        "cropAge": 130,
+        "cropProdWeight": 1,
+        "planttypeid": 1,
+        "materialid": 73,
+        "pesticideid": 41,
+        "fertilizerid": 56,
+        "seedid": 4
+    },
+    {
+        "no": 5,
+        "plantid": 5,
+        "seedlingAge": 30,
+        "harvestAge": 75,
+        "harvestTime": 65,
+        "cropAge": 140,
+        "cropProdWeight": 1,
+        "planttypeid": 1,
+        "materialid": 81,
+        "pesticideid": 43,
+        "fertilizerid": 58,
+        "seedid": 5
+
+    },
+    {
+        "no": 6,
+        "plantid": 6,
+        "seedlingAge": 14,
+        "harvestAge": 45,
+        "harvestTime": 25,
+        "cropAge": 70,
+        "cropProdWeight": 1,
+        "planttypeid": 1
+    },
+    {
+        "no": 7,
+        "plantid": 7,
+        "seedlingAge": 21,
+        "harvestAge": 65,
+        "harvestTime": 25,
+        "cropAge": 90,
+        "cropProdWeight": 0.25,
+        "planttypeid": 1
+    },
+    {
+        "no": 8,
+        "plantid": 8,
+        "seedlingAge": 21,
+        "harvestAge": 65,
+        "harvestTime": 25,
+        "cropAge": 90,
+        "cropProdWeight": 0.3,
+        "planttypeid": 1
+    },
+    {
+        "no": 9,
+        "plantid": 9,
+        "harvestAge": 45,
+        "harvestTime": 1,
+        "cropAge": 45,
+        "cropProdWeight": 1,
+        "planttypeid": 1
+    },
+    {
+        "no": 10,
+        "plantid": 10,
+        "harvestAge": 40,
+        "harvestTime": 1,
+        "cropAge": 40,
+        "cropProdWeight": 0.05,
+        "planttypeid": 1
+    },
+    {
+        "no": 11,
+        "plantid": 11,
+        "harvestAge": 45,
+        "harvestTime": 1,
+        "cropAge": 45,
+        "cropProdWeight": 0.4,
+        "planttypeid": 1
+    },
+    {
+        "no": 12,
+        "plantid": 12,
+        "harvestAge": 180,
+        "cropAge": 360,
+        "planttypeid": 1
+    },
+    {
+        "no": 13,
+        "plantid": 13,
+        "harvestAge": 150,
+        "harvestTime": 1,
+        "cropAge": 150,
+        "planttypeid": 1
+    },
+    {
+        "no": 14,
+        "plantid": 14,
+        "harvestAge": 180,
+        "planttypeid": 1
+    },
+    {
+        "no": 15,
+        "plantid": 15,
+        "harvestAge": 120,
+        "planttypeid": 1
+    },
+    {
+        "no": 16,
+        "plantid": 16,
+        "planttypeid": 1
+    },
+    {
+        "no": 17,
+        "plantid": 17,
+        "harvestAge": 60,
+        "cropAge": 60,
+        "cropProdWeight": 0.02,
+        "planttypeid": 1
+    },
+    {
+        "no": 18,
+        "plantid": 18,
+        "harvestAge": 120,
+        "planttypeid": 1
+    },
+    {
+        "no": 19,
+        "plantid": 19,
+        "harvestAge": 90,
+        "cropAge": 90,
+        "planttypeid": 1
+    },
+    {
+        "no": 20,
+        "plantid": 20,
+        "harvestAge": 45,
+        "cropAge": 45,
+        "cropProdWeight": 0.024,
+        "planttypeid": 1
+    },
+    {
+        "no": 21,
+        "plantid": 21,
+        "harvestAge": 120,
+        "cropAge": 120,
+        "cropProdWeight": 0.25,
+        "planttypeid": 1
+    },
+    {
+        "no": 22,
+        "plantid": 22,
+        "harvestAge": 90,
+        "cropAge": 90,
+        "planttypeid": 1
+    },
+    {
+        "no": 23,
+        "plantid": 23,
+        "harvestAge": 120,
+        "cropAge": 120,
+        "cropProdWeight": 0.12,
+        "planttypeid": 1
+    },
+    {
+        "no": 24,
+        "plantid": 24,
+        "harvestAge": 40,
+        "cropAge": 40,
+        "cropProdWeight": 0.005,
+        "planttypeid": 1
+    },
+    {
+        "no": 25,
+        "plantid": 25,
+        "harvestAge": 40,
+        "cropAge": 40,
+        "planttypeid": 1
+    },
+    {
+        "no": 26,
+        "plantid": 26,
+        "harvestAge": 360,
+        "planttypeid": 1
+    },
+    {
+        "no": 27,
+        "plantid": 27,
+        "seedlingAge": 240,
+        "harvestAge": 130,
+        "cropAge": 720,
+        "cropProdWeight": 0.014,
+        "planttypeid": 1
+    },
+    {
+        "no": 26,
+        "plantid": 28,
+        "harvestAge": 35,
+        "harvestTime": 1,
+        "cropAge": 35,
+        "cropProdWeight": 0.15,
+        "planttypeid": 2
+    },
+    {
+        "no": 27,
+        "plantid": 29,
+        "harvestAge": 35,
+        "harvestTime": 1,
+        "cropAge": 35,
+        "cropProdWeight": 0.15,
+        "planttypeid": 2
+    },
+    {
+        "no": 28,
+        "plantid": 30,
+        "harvestAge": 35,
+        "harvestTime": 1,
+        "cropAge": 35,
+        "cropProdWeight": 0.15,
+        "planttypeid": 2
+    },
+    {
+        "no": 29,
+        "plantid": 31,
+        "harvestAge": 35,
+        "harvestTime": 1,
+        "cropAge": 35,
+        "cropProdWeight": 0.1,
+        "planttypeid": 2
+    },
+    {
+        "no": 30,
+        "plantid":  32,
+        "harvestAge": 45,
+        "harvestTime": 1,
+        "cropAge": 45,
+        "cropProdWeight": 0.5,
+        "planttypeid": 2
+    },
+    {
+        "no": 31,
+        "plantid": 33,
+        "harvestAge": 45,
+        "harvestTime": 1,
+        "cropAge": 45,
+        "cropProdWeight": 0.5,
+        "planttypeid": 2
+    }
+]

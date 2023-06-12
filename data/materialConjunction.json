@@ -1,0 +1,71 @@
+[
+    {
+        "plantsheetid": 1,
+        "materialid": 72
+    },
+    {
+        "plantsheetid": 1,
+        "materialid": 73
+    },
+    {
+        "plantsheetid": 1,
+        "materialid": 81
+    },
+    {
+        "plantsheetid": 2,
+        "materialid": 72
+    },
+    {
+        "plantsheetid": 2,
+        "materialid": 73
+    },
+    {
+        "plantsheetid": 2,
+        "materialid": 81
+    },
+    {
+        "plantsheetid": 3,
+        "materialid": 72
+    },
+    {
+        "plantsheetid": 3,
+        "materialid": 73
+    },
+    {
+        "plantsheetid": 3,
+        "materialid": 75
+    },
+    {
+        "plantsheetid": 4,
+        "materialid": 72
+    },
+    {
+        "plantsheetid": 4,
+        "materialid": 73
+    },
+    {
+        "plantsheetid": 4,
+        "materialid": 75
+    },
+    {
+        "plantsheetid": 5,
+        "materialid": 72
+    },
+    {
+        "plantsheetid": 5,
+        "materialid": 73
+    },
+    {
+        "plantsheetid": 5,
+        "materialid": 81
+    },
+    {
+        "plantsheetid": 5,
+        "materialid": 77
+    },
+    {
+        "plantsheetid": 5,
+        "materialid": 75
+    }
+
+]

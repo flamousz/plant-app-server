@@ -1,0 +1,14 @@
+[
+    {
+        "name": "willi munandar",
+        "email": "willi.munandar@abcfood.com",
+        "role": "staff",
+        "password": "munandar"
+    },
+    {
+        "name": "yesi dasmayanti",
+        "email": "yesi.dasmayanti@abcfood.com",
+        "role": "manager",
+        "password": "dasmayanti"
+    }
+]

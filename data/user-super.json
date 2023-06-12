@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Trigunawan",
+        "email": "tri.gunawan@abcfood.com",
+        "role": "super",
+        "password": "gunawan"
+    },
+    {
+        "name": "Rival Syahmidan",
+        "email": "rival.syahmidan@abcfood.com",
+        "role": "super",
+        "password": "rival"
+    }
+]

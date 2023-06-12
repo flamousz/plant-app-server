@@ -1,0 +1,897 @@
+[   
+    {
+        "name": "Lettuce",
+        "code": "VEGETABLE001111",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Romaine",
+        "code": "VEGETABLE000111",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Tomat Ceri",
+        "code": "VEGETABLE000124",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Tomat Beef",
+        "code": "VEGETABLE000123",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Paprika ",
+        "code": "VEGETABLE000095",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Kyuri",
+        "code": "VEGETABLE000080",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Brokoli",
+        "code": "VEGETABLE000013",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Kembang Kol",
+        "code": "VEGETABLE000064",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Pakchoy",
+        "code": "VEGETABLE000065",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Poleng",
+        "code": "VEGETABLE000101",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Naibay",
+        "code": "VEGETABLE000091",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Daun Singkong",
+        "code": "VEGETABLE000042",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Sereh",
+        "code": "VEGETABLE000114",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Rosmery",
+        "code": "VEGETABLE000104",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Daun Mint",
+        "code": "VEGETABLE000036",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Selada Air",
+        "code": "VEGETABLE000106",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Daun Ketumbar",
+        "code": "VEGETABLE000033",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Daun Pucuk Labu Siam",
+        "code": "VEGETABLE000040",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Daun Bawang",
+        "code": "VEGETABLE000031",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Rocket ",
+        "code": "VEGETABLE000102",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Seledri Stik",
+        "code": "VEGETABLE000113",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Seledri Sayur",
+        "code": "VEGETABLE000112",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Kale Hijau",
+        "code": "VEGETABLE000058",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Bayam Hijau",
+        "code": "VEGETABLE000009",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Kailan",
+        "code": "VEGETABLE000057",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Jeruk Lemon",
+        "code": "FRUIT000012",
+        "categoryid": 2,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Strawberry",
+        "code": "FRUIT000035",
+        "categoryid": 2,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Selada Romaine",
+        "code": "VEGETABLE000157",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Selada Keriting",
+        "code": "VEGETABLE000110",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Lolorosa",
+        "code": "VEGETABLE000158",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Siomak",
+        "code": "VEGETABLE000118",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Butterhead",
+        "code": "VEGETABLE000107",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Letucce",
+        "code": "VEGETABLE000159",
+        "categoryid": 1,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Dithane",
+        "code": "PESFUNGI000001",
+        "description": "PER LITER AIR",
+        "categoryid": 3,
+        "uomid": 1,
+        "standardqty": 1
+    },
+    {
+        "name": "Antracol",
+        "code": "PESFUNGI000002",
+        "description": "PER LITER AIR",
+        "categoryid": 3,
+        "uomid": 1,
+        "standardqty": 1
+    },
+    {
+        "name": "Bion M",
+        "code": "PESFUNGI000003",
+        "description": "PER LITER AIR",
+        "categoryid": 3,
+        "uomid": 1,
+        "standardqty": 1
+    },
+    {
+        "name": "Amistartop",
+        "code": "PESFUNGI000004",
+        "description": "PER LITER AIR",
+        "categoryid": 3,
+        "uomid": 1,
+        "standardqty": 1
+    },
+    {
+        "name": "Nebijin",
+        "code": "PESFUNGI000005",
+        "description": "PER LITER AIR",
+        "categoryid": 3,
+        "uomid": 1,
+        "standardqty": 1
+    },
+    {
+        "name": "Siklon",
+        "code": "PESINSEK000001",
+        "description": "PER LITER AIR",
+        "categoryid": 4,
+        "uomid": 2,
+        "standardqty": 1
+    },
+    {
+        "name": "Prevathon",
+        "code": "PESINSEK000002",
+        "description": "PER LITER AIR",
+        "categoryid": 4,
+        "uomid": 2,
+        "standardqty": 1
+    },
+    {
+        "name": "Culacron",
+        "code": "PESINSEK000003",
+        "description": "PER LITER AIR",
+        "categoryid": 4,
+        "uomid": 2,
+        "standardqty": 1
+    },
+    {
+        "name": "Demolish",
+        "code": "PESINSEK000004",
+        "description": "PER LITER AIR",
+        "categoryid": 4,
+        "uomid": 2,
+        "standardqty": 1
+    },
+    {
+        "name": "Abacel",
+        "code": "PESINSEK000005",
+        "description": "PER LITER AIR",
+        "categoryid": 4,
+        "uomid": 2,
+        "standardqty": 1
+    },
+    {
+        "name": "Decis",
+        "code": "PESINSEK000006",
+        "description": "PER LITER AIR",
+        "categoryid": 4,
+        "uomid": 2,
+        "standardqty": 1
+    },
+    {
+        "name": "Dangke",
+        "code": "PESINSEK000007",
+        "description": "PER LITER AIR",
+        "categoryid": 4,
+        "uomid": 2,
+        "standardqty": 1
+    },
+    {
+        "name": "Melplus",
+        "code": "PESINSEK000008",
+        "description": "PER LITER AIR",
+        "categoryid": 4,
+        "uomid": 2,
+        "standardqty": 1
+    },
+    {
+        "name": "Tocksiput",
+        "code": "PESINSEK000009",
+        "description": "PER M2",
+        "categoryid": 4,
+        "uomid": 1,
+        "standardqty": 2.5
+    },
+    {
+        "name": "Cymbush",
+        "code": "PESINSEK000010",
+        "description": "PER LITER AIR",
+        "categoryid": 4,
+        "uomid": 2,
+        "standardqty": 1
+    },
+    {
+        "name": "Score",
+        "code": "PESZPT000001",
+        "description": "PER LITER AIR",
+        "categoryid": 5,
+        "uomid": 2,
+        "standardqty": 1
+    },
+    {
+        "name": "Atonik",
+        "code": "PESZPT000002",
+        "description": "PER LITER AIR",
+        "categoryid": 5,
+        "uomid": 2,
+        "standardqty": 1
+    },
+    {
+        "name": "Gibro",
+        "code": "PESZPT000003",
+        "description": "PER LITER AIR",
+        "categoryid": 5,
+        "uomid": 2,
+        "standardqty": 1
+    },
+    {
+        "name": "Supergrow",
+        "code": "PESZPT000004",
+        "description": "PER LITER AIR",
+        "categoryid": 5,
+        "uomid": 2,
+        "standardqty": 1
+    },
+    {
+        "name": "Agristik",
+        "code": "PESPEREK000001",
+        "description": "PER LITER AIR",
+        "categoryid": 6,
+        "uomid": 2,
+        "standardqty": 1
+    },
+    {
+        "name": "Lantis",
+        "code": "PESPEREK000002",
+        "description": "PER LITER AIR",
+        "categoryid": 6,
+        "uomid": 2,
+        "standardqty": 1
+    },
+    {
+        "name": "Urea",
+        "code": "FERTELIZER000001",
+        "description": "PER LITER AIR",
+        "categoryid": 7,
+        "uomid": 1,
+        "standardqty": 33
+    },
+    {
+        "name": "NPk Mutiara 16-16-16",
+        "code": "FERTELIZER000002",
+        "description": "PER LITER AIR",
+        "categoryid": 7,
+        "uomid": 1,
+        "standardqty": 33
+    },
+    {
+        "name": "Kcl",
+        "code": "FERTELIZER000003",
+        "description": "PER LITER AIR",
+        "categoryid": 7,
+        "uomid": 1,
+        "standardqty": 33
+    },
+    {
+        "name": "Sp 36",
+        "code": "FERTELIZER000004",
+        "description": "PER LITER AIR",
+        "categoryid": 7,
+        "uomid": 1,
+        "standardqty": 33
+    },
+    {
+        "name": "Phonska plus",
+        "code": "FERTELIZER000005",
+        "description": "PER TANAMAN",
+        "categoryid": 7,
+        "uomid": 1,
+        "standardqty": 40
+    },
+    {
+        "name": "Kno3 merah",
+        "code": "FERTELIZER000006",
+        "description": "PER LITER AIR",
+        "categoryid": 7,
+        "uomid": 1,
+        "standardqty": 2.5
+    },
+    {
+        "name": "Kno3 Putih",
+        "code": "FERTELIZER000007",
+        "description": "PER LITER AIR",
+        "categoryid": 7,
+        "uomid": 1,
+        "standardqty": 2.5
+    },
+    {
+        "name": "Mkp cap tani",
+        "code": "FERTELIZER000008",
+        "description": "PER LITER AIR",
+        "categoryid": 7,
+        "uomid": 1,
+        "standardqty": 2
+    },
+    {
+        "name": "Gandasil D",
+        "code": "FERTELIZER000009",
+        "description": "PER LITER AIR",
+        "categoryid": 7,
+        "uomid": 1,
+        "standardqty": 1
+    },
+    {
+        "name": "Gandasil B",
+        "code": "FERTELIZER000010",
+        "description": "PER LITER AIR",
+        "categoryid": 7,
+        "uomid": 1,
+        "standardqty": 1
+    },
+    {
+        "name": "Calsium",
+        "code": "FERTELIZER000011",
+        "description": "PER LITER AIR",
+        "categoryid": 7,
+        "uomid": 1,
+        "standardqty": 2
+    },
+    {
+        "name": "Nutrisi A",
+        "code": "FERTELIZER000012",
+        "description": "PER LITER AIR",
+        "categoryid": 7,
+        "uomid": 1,
+        "standardqty": 2
+    },
+    {
+        "name": "Nutrisi B",
+        "code": "FERTELIZER000013",
+        "description": "PER LITER AIR",
+        "categoryid": 7,
+        "uomid": 1,
+        "standardqty": 5
+    },
+    {
+        "name": "Chicken mushroom vegetables",
+        "code": "FERTELIZER000014",
+        "description": "PER TANAMAN",
+        "categoryid": 7,
+        "uomid": 3,
+        "standardqty": 0.17
+    },
+    {
+        "name": "Pupuk Limbah Jamur (Kompos)",
+        "code": "FERTELIZER000015",
+        "description": "PER TANAMAN",
+        "categoryid": 7,
+        "uomid": 3,
+        "standardqty": 1.83
+    },
+    {
+        "name": "Em4",
+        "code": "FERTELIZER000016",
+        "description": "PER LITER AIR",
+        "categoryid": 7,
+        "uomid": 2,
+        "standardqty": 2
+    },
+    {
+        "name": "Gula putih",
+        "code": "FERTELIZER000017",
+        "description": "PER LITER AIR",
+        "categoryid": 7,
+        "uomid": 1,
+        "standardqty": 2
+    },
+    {
+        "name": "Mulsa",
+        "code": "MATERIAL000001",
+        "description": "PEMAKAIAN UNTUK PANJANG GULUDAN 7.5 m",
+        "categoryid": 8,
+        "uomid": 8,
+        "standardqty": "7.7"
+    },
+    {
+        "name": "Semat",
+        "code": "MATERIAL000002",
+        "description": "PEMAKAIAN UNTUK PANJANG GULUDAN 7.5 m",
+        "categoryid": 8,
+        "uomid": 4,
+        "standardqty": 16
+    },
+    {
+        "name": "Bensin",
+        "code": "MATERIAL000003",
+        "description": "PEMAKAIAN UNTUK CATOR DAN SUNSCHINE",
+        "categoryid": 8,
+        "uomid": 5,
+        "standardqty": 1.5
+    },
+    {
+        "name": "Tali Paret",
+        "code": "MATERIAL000004",
+        "description": "PANJANG 2,5 M UNTUK TANAMAN TOMAT",
+        "categoryid": 8,
+        "uomid": 6,
+        "standardqty": 75
+    },
+    {
+        "name": "Kawat",
+        "code": "MATERIAL000005",
+        "description": "PER LUASAN 420",
+        "categoryid": 8,
+        "uomid": 3,
+        "standardqty": 33
+    },
+    {
+        "name": "Ajir",
+        "code": "MATERIAL000006",
+        "description": "PANJANG AJIR 2 METER",
+        "categoryid": 8,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Cocopit",
+        "code": "MATERIAL000007",
+        "description": "PEMAKAIAN 10 GR U/ HIDRO, 2 GR U/ ORGANIK",
+        "categoryid": 8,
+        "uomid": 1,
+        "standardqty": 10
+    },
+    {
+        "name": "Rockwool",
+        "code": "MATERIAL000008",
+        "description": "PER TANAMAN",
+        "categoryid": 8,
+        "uomid": 7,
+        "standardqty": 0.0005555555555555556
+    },
+    {
+        "name": "Polybag",
+        "code": "MATERIAL000009",
+        "description": "PER TANAMAN",
+        "categoryid": 8,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Pot tray",
+        "code": "MATERIAL000010",
+        "description": "PER TANAMAN",
+        "categoryid": 8,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Basil",
+        "code": "SEED000001",
+        "description": "Mr. Forthgill's",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Bayam Hijau",
+        "code": "SEED000002",
+        "description": "Maestro",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Bayam Merah",
+        "code": "SEED000003",
+        "description": "Bintang Asia",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Brokoli",
+        "code": "SEED000004",
+        "description": "Bejo (primasid)",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Buncis",
+        "code": "SEED000005",
+        "description": "Lokal",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Butterhead",
+        "code": "SEED000006",
+        "description": "Lobela",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Daun Ketumbar",
+        "code": "SEED000007",
+        "description": "Known You - Favor",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Jagung",
+        "code": "SEED000008",
+        "description": "Pertiwi",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Jagung Ketan",
+        "code": "SEED000009",
+        "description": "Rasanya F1",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Kailan",
+        "code": "SEED000010",
+        "description": "Bintang Asia (nemo)",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Kale Hijau",
+        "code": "SEED000011",
+        "description": "Indo Seed",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Kale Merah",
+        "code": "SEED000012",
+        "description": "Mr. Forthgill's",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Kangkung",
+        "code": "SEED000013",
+        "description": "Bika",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Kembang Kol",
+        "code": "SEED000014",
+        "description": "Lola 81 (primasid)",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Lettuce",
+        "code": "SEED000015",
+        "description": "Ta. Fung",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Lolorosa",
+        "code": "SEED000016",
+        "description": "Bintang Asia",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Naibay",
+        "code": "SEED000017",
+        "description": "Pony",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Pakchoy",
+        "code": "SEED000018",
+        "description": "Primasid",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Paprika Kuning",
+        "code": "SEED000019",
+        "description": "Golden Star",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Paprika Kuning",
+        "code": "SEED000020",
+        "description": "Known You Seed",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Paprika Kuning",
+        "code": "SEED000021",
+        "description": "F1",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Paprika Merah",
+        "code": "SEED000022",
+        "description": "Golden Star",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Paprika Merah",
+        "code": "SEED000023",
+        "description": "Known- You Seed",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Paprika Merah",
+        "code": "SEED000024",
+        "description": "F1",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Poleng",
+        "code": "SEED000025",
+        "description": "Takii",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Romaine",
+        "code": "SEED000026",
+        "description": "Known You Seed",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Selada Keriting",
+        "code": "SEED000027",
+        "description": "Ta. Fung",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Seledri",
+        "code": "SEED000028",
+        "description": "Known-you Seed",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Siomak",
+        "code": "SEED000029",
+        "description": "You Seed",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Tomat Ceri",
+        "code": "SEED000030",
+        "description": "Rojita",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Tomat Ceri",
+        "code": "SEED000031",
+        "description": "Lokal",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Tomat Beef",
+        "code": "SEED000032",
+        "description": "Lokal",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Tomat Lokal ",
+        "code": "SEED000033",
+        "description": "Lokal",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Kyuri",
+        "code": "SEED000034",
+        "description": "Roberto",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    },
+    {
+        "name": "Baby Romaine",
+        "code": "SEED000035",
+        "description": "Archievel",
+        "categoryid": 9,
+        "uomid": 4,
+        "standardqty": 1
+    }
+]

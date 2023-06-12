@@ -1,0 +1,45 @@
+[
+    {
+        "no": 1,
+        "name": "vegetable",
+        "code": "vgt"
+    },
+    {
+        "no": 2,
+        "name": "fruit",
+        "code": "frt"
+    },
+    {
+        "no": 3,
+        "name": "pesfungi",
+        "code": "pfg"
+    },
+    {
+        "no": 4,
+        "name": "pesinsek",
+        "code": "pik"
+    },
+    {
+        "no": 5,
+        "name": "peszpt",
+        "code": "ppt"
+    },
+    {
+        "no": 6,
+        "name": "pesperek",
+        "code": "ppk"
+    },
+    {
+        "no": 7,
+        "name": "fertelizer",
+        "code": "ftz"
+    },
+    {
+        "name": "material",
+        "code": "mtr"
+    },
+    {
+        "name": "seed",
+        "code": "sed"
+    }
+]

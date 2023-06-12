@@ -1,0 +1,50 @@
+[
+    {
+        "no": 1,
+        "name": "gram",
+        "code": "gr",
+        "description": "uom measurement"
+    },
+    {
+        "no": 2,
+        "name": "ml",
+        "code": "ml",
+        "description": "uom measurement"
+    },
+    {
+        "no": 3,
+        "name": "Kg",
+        "code": "kg",
+        "description": "uom measurement"
+    },
+    {
+        "no": 4,
+        "name": "unit",
+        "code": "un",
+        "description": "uom measurement"
+    },
+    {
+        "no": 5,
+        "name": "litre/day",
+        "code": "lid",
+        "description": "uom measurement"
+    },
+    {
+        "no": 6,
+        "name": "gram/plant",
+        "code": "grp",
+        "description": "uom measurement"
+    },
+    {
+        "no": 7,
+        "name": "plate",
+        "code": "pl",
+        "description": "uom measurement"
+    },
+    {
+        "no": 8,
+        "name": "m",
+        "code": "m",
+        "description": "uom measurement"
+    }
+]
