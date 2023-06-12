@@ -15,8 +15,10 @@
     "logging": false
   },
   "production": {
-    "use_env_variable": "DATABASE_URL",
-    "dialect": "postgres",
-    "protocol": "postgres"
+    "username": "postgres",
+    "password": "postgres",
+    "database": "database_plant",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
   }
 }
