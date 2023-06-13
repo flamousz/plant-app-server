@@ -6,6 +6,16 @@
     },
     {
         "sequenceLevel": 2,
+        "pronoun": "approve 1",
+        "UserId": 2
+    },
+    {
+        "sequenceLevel": 3,
+        "pronoun": "approve 2",
+        "UserId": 2
+    },
+    {
+        "sequenceLevel": 4,
         "pronoun": "confirm",
         "UserId": 2
     }
