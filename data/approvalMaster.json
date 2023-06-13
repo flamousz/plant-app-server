@@ -1,0 +1,12 @@
+[
+    {
+        "sequenceLevel": 1,
+        "pronoun": "submitted",
+        "UserId": 1
+    },
+    {
+        "sequenceLevel": 2,
+        "pronoun": "confirm",
+        "UserId": 2
+    }
+]
