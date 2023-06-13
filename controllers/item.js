@@ -31,8 +31,12 @@ class ItemController {
 	static async getToolItem(req, res, next){
 		try {
 			const opt = {
+				include:{
+					model: Category,
+					attributes: ['name']
+				},
 				where: {
-					categoryid: 12
+					"$Category.name$": 'Tool'
 				},
 				attributes: ['name', 'id'],
 				order: [['name', 'DESC']]
