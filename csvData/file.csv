@@ -1,5 +1,9 @@
-number,Name,Task Per Minute,Description,Status,Arc Status
-1,Memanen,3.1,,draft,avail
-2,menyiram,3.4,pesticide,confirm,avail
-3,menyebor,3.8,fertilizer,draft,avail
-4,memberi nutrisi,2.8,material,draft,avail
+number,Name,Code,Description,Arc Status,Category,Uom
+1,Romaine,VEGETABLE000111,,,vegetable,unit
+2,Tomat Ceri,VEGETABLE000124,,,vegetable,unit
+3,Tomat Beef,VEGETABLE000123,,,vegetable,unit
+4,Paprika ,VEGETABLE000095,,,vegetable,unit
+5,Kyuri,VEGETABLE000080,,,vegetable,unit
+6,Brokoli,VEGETABLE000013,,,vegetable,unit
+7,Kembang Kol,VEGETABLE000064,,,vegetable,unit
+8,Lettuce,VEGETABLE001111,,,vegetable,unit
