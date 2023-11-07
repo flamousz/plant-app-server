@@ -23,11 +23,11 @@ class CropAreaController {
 					},
 					attributes: ["id", "code"],
 				},
-				where: {
-					map: {
-						[Op.ne]: null
-					}
-				},
+				// where: {
+				// 	map: {
+				// 		[Op.ne]: null
+				// 	}
+				// },
 			};
 			const data = await CropArea.findAll(opt);
 			if (!data) {
@@ -51,7 +51,7 @@ class CropAreaController {
 
 			const opt = {
 				attributes: {
-					exclude: ["createdAt", "updatedAt", 'map'],
+					exclude: ["createdAt", "updatedAt", "map"],
 				},
 				order: [["createdAt", "DESC"]],
 			};
@@ -110,11 +110,11 @@ class CropAreaController {
 	static async postCropArea(req, res, next) {
 		try {
 			let { name, area, type, detailPlace, map } = req.body;
-			console.log(map, '<<< ini map masih ada spasi');
+			console.log(map, "<<< ini map masih ada spasi");
 			let status = "draft";
 			let arcStatus = "avail";
 			const flattenedArray = map.replace(/\\n|\s/g, "");
-			console.log(flattenedArray, '<<< ini map flattenedArray');
+			console.log(flattenedArray, "<<< ini map flattenedArray");
 			let data = await CropArea.create({
 				status,
 				arcStatus,
